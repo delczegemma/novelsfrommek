@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='iso-8859-2' ?>
+<?xml-stylesheet type=text/css href='/html/vgi/mek2.css' ?>
+
+<mek2>
+<dc_title>
+	<main> Toldi Miklós </main>
+	<subtitle> Arany János műve nyomán </subtitle>
+	<uniform> Toldi Miklós </uniform>
+</dc_title>
+<dc_creator>
+	<sort> 1 </sort>
+	<role> szerző </role>
+	<FamilyName> Benedek </FamilyName>
+	<GivenName> Elek </GivenName>
+	<invert> nem </invert>
+</dc_creator>
+<dc_contributor>
+	<sort> 1 </sort>
+	<role> elektronikus szerkesztés </role>
+	<FamilyName> Drótos </FamilyName>
+	<GivenName> László </GivenName>
+	<invert> nem </invert>
+</dc_contributor>
+<dc_contributor>
+	<sort> 2 </sort>
+	<role> elektronikus szerkesztés </role>
+	<FamilyName> Szabolcsi </FamilyName>
+	<GivenName> József </GivenName>
+	<invert> nem </invert>
+</dc_contributor>
+<dc_contributor>
+	<sort> 3 </sort>
+	<role> elektronikus szerkesztés </role>
+	<FamilyName> Kiss </FamilyName>
+	<GivenName> András </GivenName>
+	<invert> nem </invert>
+</dc_contributor>
+<dc_contributor>
+	<sort> 4 </sort>
+	<role> elektronikus szerkesztés </role>
+	<FamilyName> Ollé </FamilyName>
+	<GivenName> Krisztián </GivenName>
+	<invert> nem </invert>
+</dc_contributor>
+<dc_date>
+	<mekevent> MEK-be való felvétel időpontja </mekevent>
+	<date> 2000-03-07 </date>
+</dc_date>
+<dc_date>
+	<mekevent> HTML változat </mekevent>
+	<date> 2002-09-23 </date>
+</dc_date>
+<dc_date>
+	<mekevent> PDF változat </mekevent>
+	<date> 2002-09-23 </date>
+</dc_date>
+<dc_date>
+	<mekevent> LIT változat </mekevent>
+	<date> 2005-03-24 </date>
+</dc_date>
+<dc_date>
+	<mekevent> EPUB változat </mekevent>
+	<date> 2011-07-26 </date>
+</dc_date>
+<dc_date>
+	<mekevent> PRC változat </mekevent>
+	<date> 2011-09-07 </date>
+</dc_date>
+<dc_date>
+	<mekevent> utolsó módosítás </mekevent>
+	<date> 2012-05-16 </date>
+</dc_date>
+<dc_identifier>
+	<URL> http://mek.oszk.hu/00200/00233 </URL>
+	<mekid> MEK-00233 </mekid>
+	<URN> urn:nbn:hu-2232 </URN>
+</dc_identifier>
+<PrintedSource>
+	 Toldi Miklós / Benedek Elek;Budapest : Esély Könyvklub, 1995;ISBN 963 85386 8 6 
+</PrintedSource>
+<dc_subject>
+	<topicgroup>
+		<broadtopic> Humán területek, kultúra, irodalom </broadtopic>
+		<topic> Szépirodalom, népköltészet </topic>
+		<subtopic> Klasszikus magyar irodalom </subtopic>
+	</topicgroup>
+	<keyword> magyar irodalom </keyword>
+	<period> 19-20. sz. </period>
+	<keyword> mese </keyword>
+	<keyword> monda </keyword>
+	<keyword> gyermekirodalom </keyword>
+</dc_subject>
+<dc_type>
+	 regény 
+</dc_type>
+<dc_type>
+	 mese(k) 
+</dc_type>
+<dc_format>
+	<name> HTML </name>
+</dc_format>
+<dc_format>
+	<name> PDF </name>
+</dc_format>
+<dc_format>
+	<name> RTF </name>
+</dc_format>
+<dc_format>
+	<name> WORD 6.0 </name>
+</dc_format>
+<dc_format>
+	<name> XML </name>
+</dc_format>
+<dc_format>
+	<name> TXT </name>
+</dc_format>
+<dc_format>
+	<name> PV </name>
+	<SpecReq> ProfiVox hangszerver </SpecReq>
+</dc_format>
+<dc_format>
+	<name> LIT </name>
+</dc_format>
+<dc_format>
+	<name> EPUB </name>
+</dc_format>
+<dc_format>
+	<name> PRC </name>
+</dc_format>
+<dc_language>
+	<lang> hun </lang>
+</dc_language>
+<dc_relation>
+	<MEK>
+		<MEK_name> Ilosvai Péter: Toldi Miklós históriája </MEK_name>
+		<MEK_URL> http://mek.oszk.hu/00600/00673/ </MEK_URL>
+	</MEK>
+	<other>
+		<othername> Arany János: Szöveggyűjtemény </othername>
+		<otherurl> http://magyar-irodalom.elte.hu/sulinet/igyjo/setup/portrek/arany/ajszoveg.htm </otherurl>
+	</other>
+</dc_relation>
+<dc_relation>
+	<MEK>
+		<MEK_name> Arany János: Toldi trilógia </MEK_name>
+		<MEK_URL> http://mek.oszk.hu/00500/00597/html/toldi.htm </MEK_URL>
+	</MEK>
+</dc_relation>
+<note>
+	 javított változat 
+	 Az EPUB formátum a MEK Egyesület részére 2010-ben felajánlott SZJA 1%-os támogatásból készült. 
+</note>
+</mek2>
+
