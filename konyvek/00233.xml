@@ -17,35 +17,37 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
-         <div>
-            <head>Emlékezzünk az elmúlt időkről...</head>
-            <p>Száll a lelkem rég letűnt időkbe, szálljon az én lelkemmel a tietek is, magyar fiúk,
-               magyar leányok! Száll a lelkem daliás időkbe, amikor nagy volt híre, neve a
-               magyarnak, királyának is <hi rend="italic">nagy</hi> volt a neve. Amikor három tenger
-               mosta a magyar birodalom határát. Tudjátok-e már, hová vezetlek? Nagy Lajos király
-               idejébe. Ez volt ám a király! Nagy a szíve, nagy a lelke, nagy az esze, nagy a
-               vitézsége. Nem tűrt foltot maga s népe becsületén. S ha hadba kellett szállani - haj,
-               de sokszor kellett! -, nem küldötte, de vezette a népét. - Előre, magyarok! -
-               csendült hatalmas hangja. - Utánam, vitézek! - s rohantak a magyarok utána, tűzbe,
-               vízbe, halálba.</p>
-            <p>Hős királynak minden vitéze hős. Lovagi játékban, véres csatában nemesen vetélkedő
-               mind. Boldog, ha életet áldozhat hazáért, királyért, a magyar név becsületéért. Mint
-               a fűszál úgy teremnek a nagy király körül a világhíres hősök, kiknek hallván csuda
-               vitéz tetteiket, nem tudod hirtelen: melyik nagyobb, melyik dicsőbb közülök. De ím,
-               amint elvonulnak lelki szemem előtt a nagyok, a nagyobbak, megtapad tekintetem egynek
-               az alakján, valamennyi közt a legnagyobbén. Mint óriás cser az erdő rengetegéből,
-               kiválik egy a hősök seregéből. Ihol jön, ihol jön <hi rend="italic">Toldi
-               Miklós</hi>, a nagy erejű, a nagyszívű dalia. Lépte alatt messze reng a föld, s
-               mázsás buzogányát amint meglendíti, zúgó szél támad a nyomán.</p>
-            <p>Vitézek vitéze, hősök hőse, terólad lészen emlékezés e könyvben. Teéretted száll
-               vissza lelkem rég letűnt időkbe. Szálljon az én lelkemmel a tietek is, magyar fiúk,
-               magyar leányok!</p>
-            <p> </p>
-         </div>
-         <div>
+     <front>
+        <div type="liminal">
+           <head>Emlékezzünk az elmúlt időkről...</head>
+           <p>Száll a lelkem rég letűnt időkbe, szálljon az én lelkemmel a tietek is, magyar fiúk,
+              magyar leányok! Száll a lelkem daliás időkbe, amikor nagy volt híre, neve a
+              magyarnak, királyának is <hi>nagy</hi> volt a neve. Amikor három tenger
+              mosta a magyar birodalom határát. Tudjátok-e már, hová vezetlek? Nagy Lajos király
+              idejébe. Ez volt ám a király! Nagy a szíve, nagy a lelke, nagy az esze, nagy a
+              vitézsége. Nem tűrt foltot maga s népe becsületén. S ha hadba kellett szállani - haj,
+              de sokszor kellett! -, nem küldötte, de vezette a népét. - Előre, magyarok! -
+              csendült hatalmas hangja. - Utánam, vitézek! - s rohantak a magyarok utána, tűzbe,
+              vízbe, halálba.</p>
+           <p>Hős királynak minden vitéze hős. Lovagi játékban, véres csatában nemesen vetélkedő
+              mind. Boldog, ha életet áldozhat hazáért, királyért, a magyar név becsületéért. Mint
+              a fűszál úgy teremnek a nagy király körül a világhíres hősök, kiknek hallván csuda
+              vitéz tetteiket, nem tudod hirtelen: melyik nagyobb, melyik dicsőbb közülök. De ím,
+              amint elvonulnak lelki szemem előtt a nagyok, a nagyobbak, megtapad tekintetem egynek
+              az alakján, valamennyi közt a legnagyobbén. Mint óriás cser az erdő rengetegéből,
+              kiválik egy a hősök seregéből. Ihol jön, ihol jön <hi>Toldi
+                 Miklós</hi>, a nagy erejű, a nagyszívű dalia. Lépte alatt messze reng a föld, s
+              mázsás buzogányát amint meglendíti, zúgó szél támad a nyomán.</p>
+           <p>Vitézek vitéze, hősök hőse, terólad lészen emlékezés e könyvben. Teéretted száll
+              vissza lelkem rég letűnt időkbe. Szálljon az én lelkemmel a tietek is, magyar fiúk,
+              magyar leányok!</p>
+           
+        </div>
+     </front> 
+     <body>
+         <div type="part">
             <head>Első könyv</head>
-            <div>
+            <div type="chapter">
                <head>Melyik út megyen Budára?</head>
                <p>A vén udvarház tornácán egyedül üldögélt a nagyasszony. Valami írást betűzgetett.
                   Megtelt a szeme könnyel: örömnek, fájdalomnak a könnyével. Újra meg újra
@@ -130,9 +132,9 @@
                <p>Eddig csak méltatlankodott magában, ha bátyjára gondolt. Most már meg is
                   gyűlölte.</p>
                <p>Vigyázz, Miklós, vigyázz, harag és gyűlölet gonosz tanácsadó!</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Miklós elbujdosik</head>
                <p>Forrott az indulat egész úton hazafelé Miklós lelkében. Ha most történetesen
                   találkoznék Györggyel, de szemébe mondaná az igazságot! Végig elgondolta magában,
@@ -393,9 +395,9 @@
                <p>Hiszen szaladtak, mintha szemüket vették volna, erre-arra, mindenfelé. Felverték a
                   falut, de hiszen verhették: Toldi Miklóst bizony utol nem érhették.</p>
                <p>Isten vezérelte. Ő kalauzolta. Szegény édesanya, ne aggódj miatta!</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>A pesti temetőkertben</head>
                <p>Szakadott a záporeső, dörgött, villámlott az ég: ez volt Miklós szerencséje. Ő nem
                   félt az ítéletidőtől, vaktában nekivágott a sötét éjszakának, ellenben György a
@@ -676,9 +678,9 @@
                <p>Aztán... hát az öreg Bence már elnyúlt a padon, javában hortyogott. Miklós is
                   lelankadt. Elég volt a táncból, a duhajkodásból. Leborult az asztalra s aludott,
                   aludott sokáig. Jó fennjárt a nap, mikor felébredett.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Miklós megöli a cseh óriást</head>
                <p>Az áldott nap sugara megbizseregtette Toldi Miklós vérét. Hopp! Egyszerre kifutott
                   szeméből az álom. Nagy hirtelen lemosta arcáról az úti port, oszt nekivágott
@@ -829,12 +831,12 @@
                <p>- Ugye hogy itt marad, édesanyám, lelkem? Itt velem, mellettem, szép Budavárában.
                   Hadd menjen haza György. Élje ott világát. Mi maradjunk együtt.</p>
                <p>- Együtt, együtt, lelkem, szép magzatom - suttogta Toldiné.</p>
-               <p> </p>
+               
             </div>
          </div>
-         <div>
+         <div type="part">
             <head>Második könyv</head>
-            <div>
+            <div type="chapter">
                <head>Rozgonyi Piroska</head>
                <p>Lajos király egyszer mit gondolt magába? Levetette fényes királyi ruháját, avatag
                   dolmányt vett föl magára, ütött-kopott szűrt kanyarított a hátára, aztán felült
@@ -1015,9 +1017,9 @@
                <p>Szegény Rozgonyi Piroska, de megszomorodott! Lám, csak elébb nyílt ki öröme
                   rózsája, s máris hervadozik... Eljön-e, nem jön-e? Mind azt találgatja pünkösd
                   hajnaláig.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Hadijáték Kesziben</head>
                <p>Telt, múlt az idő, közeledett piros pünkösd napja, készülődtek a vitézek a
                   hadijátékra. Egy az, hogy a király gondolatja volt a hadijáték, más az, hogy
@@ -1238,9 +1240,9 @@
                   kerekedett, szörnyű szilaj táncra, recsegtek-ropogtak az asztalok, székek,
                   összebújva nézték maguk a vitézek, hogy mit művel Toldi mennydörgős
                   kedvében...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Mit üzent a cseh király?</head>
                <p>Hadd tombolja ki Toldi Miklós bús-haragos kedvét, mostan elmondom mit üzent Károly
                   cseh király a magyar királynak. Mert tőle hozott üzenetet Lökös Bertalan, olyan
@@ -1381,7 +1383,7 @@
                <p>Egy van ilyen, az egyetlen,</p>
                <p> Messzi tőlem, bár mellettem:</p>
                <p> Könnyű nézni, megölelni,</p>
-               <p> De szeretni, <hi rend="italic">párját lelni</hi>
+               <p> De szeretni, <hi>párját lelni</hi>
                </p>
                <p> Lehetetlen!</p>
                <p>Hát hiszen a dal eleget mondott, talán többet is, mint amennyit kellett volna. -
@@ -1462,9 +1464,9 @@
                   kedve szerint ellenséget vághat. Éppen jókor esik ez a hadakozás! Bús, haragos
                   kedvét most kitomboltatja, s Piroska emléke meg nem háborgatja, úgy eltemeti most,
                   úgy elfelejti most...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>A prágai kaland</head>
                <p>Gyűltek, gyülekeztek Trencsén mellett a magyar hadak, indult Lajos király is
                   Budáról nagy, fényes kísérettel. Budán, Pesten s amerre elvonult a király, tenger
@@ -1753,9 +1755,9 @@
                <p>Ha várod, várhatsz rá, Rozgonyi Piroska!</p>
                <p>Pedig várja szegény, szívszakadva várja... Hej, mert őneki is azt súgja valami:
                   hátha mégis, mégis...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Kelepcébe kerül vitéz Toldi Miklós</head>
                <p>Még nem indult volt el Lajos király a prágai kalandra, mikor Rozgonyi uram
                   Piroskát felvitte Budára. Szép háza volt Budán Rozgonyi uramnak, de rég, nagyon
@@ -1911,9 +1913,9 @@
                <p>Amit egyszer Toldi feltett magában, végre is hajtotta. Húzta a szíve hazafelé,
                   húzta erősen, de hiába, addig el nem hagyta Csehországot, míg egy fia zsiványt
                   talált. Így kívánta ezt a magyar becsület.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Férjhez megy Piroska</head>
                <p>Rég hazajöttek már mind a vitézek a prágai kalandból, egyedül Toldi nem. Hej,
                   szegény Piroska! Mikor csak a jó Isten látta, hullatta könnyeit, két szép szemét
@@ -2079,9 +2081,9 @@
                <p>Toldi Miklós igazi lovag volt. Eleresztette Piroska kezét s ment, némán, szó
                   nélkül. Ment azzal az erős elhatározással, hogy soha, soha nem fogja látni többet
                   Rozgonyi Piroskát...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>A szalontai várban</head>
                <p>Nem maradott egyedül Piroska az apai házban, mikor Toldi eltávozott: vele maradott
                   az emésztő bánat, a rettentő önvád. Tépelődött, vergelődött szegény, keserű
@@ -2193,9 +2195,9 @@
                   Vártak rá egy hétig, vártak rá kettőig, közben a nagyasszony tisztára takaríttatá
                   a várat, hogy nyoma se maradjon a vad tivornyáknak, aztán átaladá a kulcsot a
                   várnagynak s nagy búsan hazaszekerezett Nagyfaluba...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Bajvívás a Duna szigetjén</head>
                <p>Hajtotta, kergette Miklóst a szégyen, a bánat, sokáig azt sem tudta, hol jár,
                   merre jár. Mindegy volt neki, akárhol. Ha rágondolt édesanyjára, lángba borult
@@ -2303,9 +2305,9 @@
                   Nézzetek csak oda, alig áll a lábán! Aztán amint ránéz ura holttestére, éles
                   sikoltással lezuhan a földre. Vége, vége, vége! Letört a virágszál. Megért a
                   halálra.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>A sírboltban</head>
                <p>Fekete gyászba borult Rozgonyi uram budai palotája. Szegény öregember! Van-e
                   nagyobb bánat az ő bánatjánál? Aki látta, megsajnálta, Piroskával együtt apját is
@@ -2379,12 +2381,12 @@
                   nem vétkezik azzal.</p>
                <p>Így az esztergomi érsek.</p>
                <p>Világhíres Toldi Miklós, vitézek vitéze, mit kellett megérned!</p>
-               <p> </p>
+               
             </div>
          </div>
-         <div>
+         <div type="part">
             <head>Harmadik könyv</head>
-            <div>
+            <div type="chapter">
                <head>Az anyai szív</head>
                <p>Szárnyon jár a rossz hír, elszárnyalt Nagyfaluba, oda szárnyalt tán legelébb:
                   világ bujdosója lett Toldi Miklós! Haj, szegény nagyasszony! Isten csudája, hogy
@@ -2465,9 +2467,9 @@
                   az öregasszony!), hamarosan felöltözködtek, lóra kaptak s sebes vágtatással
                   elvágtattak Budáról. Várhattak rájok a búcsúsok: mire azok nekicihelődtek,
                   árkon-bokron, hegyen-völgyön túljártak ők!</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Fráter Mikola</head>
                <p>Hát csak hadd menjen a két vitéz (mármint Anikó meg Bence) Isten hírével, majd
                   találkozunk még velük valahol Taliánországban, most mi addig maradjunk itthon, míg
@@ -2565,9 +2567,9 @@
                   rabló vagy. Annak tart a világ.</p>
                <p>Eredj, Miklós, eredj, folytasd a bujdosást. Ne félj, ne csüggedezz, veled lesz az
                   Isten!</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Anikó és Bence</head>
                <p>Sok mindent összegondolhatott bujdosás közben Toldi Miklós, de már arra bizonyosan
                   nem gondolt, hogy érette egy fiatal leány, kinek otthon a rokka mellett volna a
@@ -2721,7 +2723,7 @@
                   álmodik.</p>
                <p>- Eljön, eljön, itt terem egyszerre - suttogja magában.</p>
             </div>
-            <div>
+            <div type="chapter">
                <head>A kobzos ifjú</head>
                <p>Bizony különös, fura egy had volt az, melybe Toldi Miklós keveredett. Valahonnét
                   Olaszországból indult el, ahol pusztított erősen a fekete halál, s amerre
@@ -2849,17 +2851,17 @@
                   mondotta Toldinak:</p>
                <p>- Nos, testvér, sok országot, világot bejártam, de ilyen hadakozást még nem
                   láttam. Hallottam mesélni mostanában egy magyar vitézről. Láttam is lerajzolva,
-                  amint malomkövet hajigál. Olasz városokban nótát énekelnek róla. <hi rend="italic"
+                  amint malomkövet hajigál. Olasz városokban nótát énekelnek róla. <hi
                      >Kola Toldinak</hi> mondták a taliánok. Ugyan bizony - kérdezte tréfásan -, nem
                   te vagy-e az a Kola Toldi?</p>
                <p>- Ne felejtsd az alkut - tért ki Toldi a kérdés elől. - Én sem tudakolom a te
                   nevedet, te se tudakold az enyimet. Hanem, hogy éppen név nélkül ne járjak veled,
-                  hívj <hi rend="italic">fráter Mikolának</hi>. Ennek csúfoltak a barátok. Mostan
+                  hívj <hi>fráter Mikolának</hi>. Ennek csúfoltak a barátok. Mostan
                   pedig telepedjünk le itt. Falatozzunk a maradékból, mit a “szent” had
                   itthagyott.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Találkozás a cseh királlyal</head>
                <p>Volt maradék bőven, ettek, ittak, jóllaktak, aztán a tűz mellé leheveredtek,
                   aludtak reggelig, akkor aztán útnak eredtek. Azt határozták, hogy már csak együtt
@@ -2990,9 +2992,9 @@
                <p>Hiszen fel is ült rá Toldi. A másik lóra Szeredai.</p>
                <p>Most már övék volt a világ. Visszaszerzik a becsületet mind a ketten, vagy
                   meghalnak hősi halállal.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>A rőt barát</head>
                <p>Lajos királynak sok vár és város meghódolt Nápoly felé haladtában, de Kanóza
                   (Canosa) vár kapitányában kemény legényre talált: azt üzente a királynak, vegye el
@@ -3130,9 +3132,9 @@
                <p>- Nem, nem, ne kérdjétek...</p>
                <p>Gondolt most is valamit a király, de gondolatját magának tartotta. Azt gondolta,
                   gondolhatta: csak vezekeljen tovább. Mindennek elkövetkezik az ideje, sora...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Kalandra kaland</head>
                <p>Eltűnt a barát, vajon hová tűnhetett el? Nem tűnt el ő semerre. Kobzos barátjával
                   mindég nyomon követte a király táborát, attól nem messzire kalibát hevenyésztek
@@ -3470,9 +3472,9 @@
                   hagyták szegény Endrét...</p>
                <p>De akkor éjjel Lajos király sem hunyta be szemét. Mégis, mégis, kemény volt,
                   szörnyű kemény a megtorlás. Nem illett királyhoz. A magyar királyhoz...</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Piroska levele</head>
                <p>Mondám, hogy Lajos király akkor éjjel, a Durazzó lefejeztetését követő éjszakán
                   nem hunyta be szemét, ébren találta a felkelő nap, ott találta asztala mellett.
@@ -3704,12 +3706,12 @@
                <p>- Miután pedig tietek Szalonta - mondotta a boldog párnak. - Isten áldjon.</p>
                <p>S ment vissza Budára.</p>
                <p>Ott van az ő helye, a király oldalán, míg életet ád neki Istennek kegyelme.</p>
-               <p> </p>
+               
             </div>
          </div>
-         <div>
+         <div type="part">
             <head>Negyedik könyv</head>
-            <div>
+            <div type="chapter">
                <head>Az ország címere</head>
                <p>Telt, múlt az idő, esztendő esztendő után, nőtt-növekedett Toldi Miklós híre,
                   széles kardjával, mázsás buzogányával, szörnyű nagy öklelőfájával tenger
@@ -3925,9 +3927,9 @@
                <p>Nosza, mindjárt lóra kerekedtek az urak, elvágtattak Toldi után. De bezzeg
                   özönlött a nép is gyalogszerrel: nem várhatták, míg visszahozzák vitéz Toldi
                   Miklóst. Látni akarták, mielébb látni a világhíres vitézt.</p>
-               <p> </p>
+               
             </div>
-            <div>
+            <div type="chapter">
                <head>Toldi halála</head>
                <p>Már a Rákosmezején járt Toldi, lovát itt megcsendesítette, lassan ballagott előre,
                   mintha érezte volna a ló is, hogy gazdája szívét nehéz bánat nyomja.</p>
@@ -4103,11 +4105,11 @@
                   világít a halotti szekér mellett: így halad lassan, döcögve a sötét éjszakában,
                   Nagyfalu felé. Ahol megásva már a sír. Várja a lakóját.</p>
                <p>Lefektetik szépen. Elföldelik csendben. Aztán feldomborítják magasra, magasra.</p>
-               <p> </p>
-               <p> </p>
-               <p>.oOo.</p>
-               <p> </p>
-               <p> </p>
+               
+               
+               <trailer>.oOo.</trailer>
+               
+               
             </div>
          </div>
       </body>
